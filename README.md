@@ -1,1 +1,1 @@
-# AstromechMagicPanel
+# AstromechMagicPanel (AMP)
