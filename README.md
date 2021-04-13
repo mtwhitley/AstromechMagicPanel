@@ -1,6 +1,6 @@
 # Astromech Magic Panel (AMP)
 
-This project enables the building of LED Magic Panels for Astromech droids. The provided sketch cycles through 8 predefined color pallets at 30 second intervals. The brightness pulses. The colors, intervals, sequences, speed, and density are all configurable. 
+This project enables the building and animating of LED Magic Panels for Astromech droids. The provided sketch cycles through 8 predefined color pallets at 30 second intervals. The brightness pulses. The colors, intervals, sequences, speed, and density are all configurable. 
 
 The default color sequence is:
 
