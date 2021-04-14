@@ -19,7 +19,7 @@ To build the Astromech Magic Panel (AMP) you will need the following hardware:
 
  - 1 x [Adafruit QT Py (SAMD21)](https://www.adafruit.com/product/4600)
  - 2 x [Adafruit DotStar 8x8 Grid](https://www.adafruit.com/product/3444) or [SparkFun LuMini LED Matrix - 8x8](https://www.sparkfun.com/products/15047) (Sparkfun is easier to solder)
- - 8 x M3, 6mm screws
+ - 8 x M2/M3, 6mm screws
  - USB Type-C Cable supporting both Data and Power 
  - Soldering Iron and Solder
  - The [Arduino IDE](https://www.arduino.cc/en/software)
