@@ -30,10 +30,6 @@ Red and Blue Animations
 
 [<img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/RedAndBlue.png" height="300">](https://www.youtube.com/watch?v=H4pSufZo-co)
 
-Red Animation
-
-[<img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/Red.png" height="300">](https://www.youtube.com/watch?v=TolFwARHGsY)
-
 Horizontal & Vertical Lenses Compared
 
 [<img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/LensesCompared.png" height="300">](https://www.youtube.com/watch?v=DCI3bl-R6VM)
