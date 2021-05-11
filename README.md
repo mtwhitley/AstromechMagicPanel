@@ -66,6 +66,7 @@ First, solder the straight header pins to the Adafruit QT Py facing up.
 <img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/IMG_5284.jpeg" width="500">
 
 Next, solder two wires to the power pads on the opposite side of the QT Py.
+
 <img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/IMG_5285.jpeg" width="500">
 
 ***Sparkfun Instructions***
@@ -105,6 +106,7 @@ Next, screw the LED panels into the bracket.
 <img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/IMG_5287.jpeg" width="500">
 
 Then connect the QT Py to the LED panels using the female jumper wires.
+
 <img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/IMG_5309.jpeg" width="500">
 
 <img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/IMG_5314.jpeg" width="500">
