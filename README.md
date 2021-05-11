@@ -18,7 +18,7 @@ The default color sequence is:
 
 If you are interested in purchasing a prebuilt unit, please DM me on [Instagram](https://www.instagram.com/mw.labs/) or send me a message in the [Astromech forums](https://astromech.net/forums/member.php?46338-umlungu).
 
-## Demo Videos
+## Videos
 
 Click the image to view the video on Youtube.
 
