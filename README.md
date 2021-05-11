@@ -20,10 +20,10 @@ If you are interested in purchasing a prebuilt unit, please DM me on [Instagram]
 
 ## Videos
 
- - [Rainbow Animation Demo](https://www.youtube.com/embed/29eVVwuxKLU)
- - [Red and Blue Animations](https://www.youtube.com/embed/H4pSufZo-co)
- - [Red Animation](https://www.youtube.com/embed/TolFwARHGsY)
- - [Horizontal vs Vertical Printed Magic Panel Lenses](https://www.youtube.com/embed/DCI3bl-R6VM)
+ - [Rainbow Animation Demo](https://www.youtube.com/watch?v=29eVVwuxKLU)
+ - [Red and Blue Animations](https://www.youtube.com/watch?v=H4pSufZo-co)
+ - [Red Animation](https://www.youtube.com/watch?v=TolFwARHGsY)
+ - [Horizontal vs Vertical Printed Magic Panel Lenses](https://www.youtube.com/watch?v=DCI3bl-R6VM)
 
 ## Getting Started
 
