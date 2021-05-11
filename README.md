@@ -76,6 +76,7 @@ Next, solder the 5V, CO-CI, DO-DI, and GND pads together on a flat surface. Also
 <img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/IMG_5280.jpeg" width="500">
 
 Next, spread the pins of the right angle headers apart slightly and solder them to the 5V, CI, DI, and GND pads on the top board.
+
 <img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/IMG_5281.jpeg" width="500">
 
 ***Adafruit Instructions***
