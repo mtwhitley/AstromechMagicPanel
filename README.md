@@ -36,7 +36,7 @@ Red Animation
 
 Horizontal & Vertical Lenses Compared
 
-[<img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/LensesCompared.png" height="300">](https://www.youtube.com/watch?v=TolFwARHGsY)
+[<img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/LensesCompared.png" height="300">](https://www.youtube.com/watch?v=DCI3bl-R6VM)
 
 
 ## Getting Started
