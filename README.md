@@ -18,12 +18,26 @@ The default color sequence is:
 
 If you are interested in purchasing a prebuilt unit, please DM me on [Instagram](https://www.instagram.com/mw.labs/) or send me a message in the [Astromech forums](https://astromech.net/forums/member.php?46338-umlungu).
 
-## Videos
+## Demo Videos
 
- - [Rainbow Animation Demo](https://www.youtube.com/watch?v=29eVVwuxKLU)
- - [Red and Blue Animations](https://www.youtube.com/watch?v=H4pSufZo-co)
- - [Red Animation](https://www.youtube.com/watch?v=TolFwARHGsY)
- - [Horizontal vs Vertical Printed Magic Panel Lenses](https://www.youtube.com/watch?v=DCI3bl-R6VM)
+Click the image to view the video on Youtube.
+
+Rainbow Animation
+
+[<img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/Rainbow.png" height="300">](https://www.youtube.com/watch?v=29eVVwuxKLU)
+
+Red and Blue Animations
+
+[<img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/RedAndBlue.png" height="300">](https://www.youtube.com/watch?v=H4pSufZo-co)
+
+Red Animation
+
+[<img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/Red.png" height="300">](https://www.youtube.com/watch?v=TolFwARHGsY)
+
+Horizontal & Vertical Lenses Compared
+
+[<img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/LensesCompared.png" height="300">](https://www.youtube.com/watch?v=TolFwARHGsY)
+
 
 ## Getting Started
 
