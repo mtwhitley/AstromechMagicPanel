@@ -19,17 +19,11 @@ The default color sequence is:
 If you are interested in purchasing a prebuilt unit, please DM me on [Instagram](https://www.instagram.com/mw.labs/) or send me a message in the [Astromech forums](https://astromech.net/forums/member.php?46338-umlungu).
 
 ## Videos
-Rainbow Animation
-<iframe width="560" height="315" src="https://www.youtube.com/embed/29eVVwuxKLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Red and Blue Animations
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H4pSufZo-co" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Red Animation
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TolFwARHGsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Horizontal vs Vertical Printed Magic Panel Lenses
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCI3bl-R6VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ - [Rainbow Animation Demo](https://www.youtube.com/embed/29eVVwuxKLU)
+ - [Red and Blue Animations](https://www.youtube.com/embed/H4pSufZo-co)
+ - [Red Animation](https://www.youtube.com/embed/TolFwARHGsY)
+ - [Horizontal vs Vertical Printed Magic Panel Lenses](https://www.youtube.com/embed/DCI3bl-R6VM)
 
 ## Getting Started
 
@@ -45,9 +39,13 @@ To build the Astromech Magic Panel (AMP) you will need the following hardware:
  - The ability to print the included mounting brackets
 
 Here are the components prior to assembly
+
 **Sparkfun LuMini**
+
 <img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/IMG_5275.jpeg" width="500">
+
 **Adafruit Dotstar**
+
 <img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/IMG_5276.jpeg" width="500">
 
 **Note:** You will also need a semi-transparent Magic Panel. If 3D printing this panel I recommend printing the panel *vertically* using a clear PETG filament. I used 6 perimeters/shells with 10% gyroid infill. Fewer perimeters and less infill will result in poorer LED diffusion. I recommend using the Panel 7 STL from [Michael Baddeley](https://www.patreon.com/mrbaddeley/overview).  
@@ -60,17 +58,22 @@ Next, solder two wires to the power pads on the opposite side of the QT Py.
 <img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/IMG_5285.jpeg" width="500">
 
 ***Sparkfun Instructions***
+
 Next, solder the 5V, CO-CI, DO-DI, and GND pads together on a flat surface. Also place a bit of solder on the remaining 5V, CI, DI, and GND pads on the top board.
+
 <img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/IMG_5280.jpeg" width="500">
 
 Next, spread the pins of the right angle headers apart slightly and solder them to the 5V, CI, DI, and GND pads on the top board.
 <img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/IMG_5281.jpeg" width="500">
 
 ***Adafruit Instructions***
-Next, solder the capacitors supplied with the matrices to the boards. Be sure to solder the + and - capacitor leads to the corresponding pads on the board. Also place a bit of solder on the CIN, DIN, GND, and +5V pads. Do the same for the +5V, GND, DOUT, and COUT pads on one of the boards.
+
+Next, solder the capacitors supplied with the matrices to the boards. Be sure to solder the + and - capacitor leads to the corresponding pads on the board. Once soldered trim the leads. Also place a bit of solder on the CIN, DIN, GND, and +5V pads. Do the same for the +5V, GND, DOUT, and COUT pads on one of the boards.
+
 <img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/IMG_5282.jpeg" width="500">
 
 Next, solder the right angle headers to the pads prepared in the step above. Note that with the Adafruit board the right angle headers do not need to be spread apart.
+
 <img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/IMG_5288.jpeg" width="500">
 
 ### Step 2: Program
@@ -83,13 +86,16 @@ Print the Magic Panel *vertically* (standing on the shorter side) using clear PE
 
 ### Step 4: Assemble
 Next, use CA glue to attach the QT Py bracket to the base.
+
 <img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/IMG_5286.jpeg" width="500">
 
 Next, screw the LED panels into the bracket.
+
 <img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/IMG_5287.jpeg" width="500">
 
 Then connect the QT Py to the LED panels using the female jumper wires.
 <img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/IMG_5309.jpeg" width="500">
+
 <img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/IMG_5314.jpeg" width="500">
 
 ## More Help
