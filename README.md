@@ -62,6 +62,7 @@ Here are the components prior to assembly
 
 ### Step 1: Solder 
 First, solder the straight header pins to the Adafruit QT Py facing up.
+
 <img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/IMG_5284.jpeg" width="500">
 
 Next, solder two wires to the power pads on the opposite side of the QT Py.
