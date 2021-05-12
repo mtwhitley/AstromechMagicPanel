@@ -92,8 +92,8 @@ Next, solder the right angle headers to the pads prepared in the step above. Not
 ### Step 2: Program
 Using a USB C cable, a computer, and the [Arduino IDE](https://www.arduino.cc/en/software), connect the QT Py microcontroller and upload the *AstromechMagicPanel.ino* sketch found in the *src* directory.
 
-### Step 3: 3D Print
-Print the QT Py and Base mounting brackets found in the models folder. Only print the base model corresponding to the LED matrix you are using.
+### Step 3: Print
+3D print the QT Py and Base mounting brackets found in the models folder. Only print the base model corresponding to the LED matrix you are using.
 
 Print the Magic Panel *vertically* (standing on the shorter side) using clear PETG filament. I used 6 perimeters/shells with 10% gyroid infill. Fewer perimeters and less infill will result in poorer LED diffusion. I recommend using "Panel 7" model from [Michael Baddeley's](https://www.patreon.com/mrbaddeley/overview) project.  The light is diffused perpendicular to the print layer direction.
 
