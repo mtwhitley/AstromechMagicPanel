@@ -16,7 +16,7 @@ The default color sequence is:
  - Blue, *\<Off\>*
  - Rainbow, *\<Off\>*
 
-The build is pretty straightforward but if you are interested in purchasing a prebuilt, preprogrammed unit, you can DM me on [Instagram](https://www.instagram.com/mw.labs/) (preferred) or send me a message in the [Astromech forums](https://astromech.net/forums/member.php?46338-umlungu).
+The build is pretty straightforward but if interested in purchasing a prebuilt, preprogrammed unit; DM me on [Instagram](https://www.instagram.com/mw.labs/) (preferred) or send me a message in the [Astromech forums](https://astromech.net/forums/member.php?46338-umlungu).
 
 ## Videos
 
