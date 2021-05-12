@@ -16,7 +16,7 @@ The default color sequence is:
  - Blue, *\<Off\>*
  - Rainbow, *\<Off\>*
 
-If you are interested in purchasing a prebuilt unit, please DM me on [Instagram](https://www.instagram.com/mw.labs/) or send me a message in the [Astromech forums](https://astromech.net/forums/member.php?46338-umlungu).
+The build is pretty straightforward but if you are interested in purchasing a prebuilt, preprogrammed unit, you can DM me on [Instagram](https://www.instagram.com/mw.labs/) (preferred) or send me a message in the [Astromech forums](https://astromech.net/forums/member.php?46338-umlungu).
 
 ## Videos
 
@@ -58,7 +58,7 @@ Here are the components prior to assembly
 
 <img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/IMG_5276.jpeg" width="500">
 
-**Note:** You will also need a semi-transparent Magic Panel. If 3D printing this panel I recommend printing the panel *vertically* using a clear PETG filament. I used 6 perimeters/shells with 10% gyroid infill. Fewer perimeters and less infill will result in poorer LED diffusion. I recommend using the Panel 7 STL from [Michael Baddeley](https://www.patreon.com/mrbaddeley/overview).  
+**Note:** You will also need a semi-transparent Magic Panel. If 3D printing this panel I recommend printing the panel *vertically* using a clear PETG filament. I used 6 perimeters/shells with 10% gyroid infill. Fewer perimeters and less infill will result in poorer LED diffusion. I highly recommend using [Michael Baddeley's](https://www.patreon.com/mrbaddeley/overview) excellent 3D printable models.
 
 ### Step 1: Solder 
 First, solder the straight header pins to the Adafruit QT Py facing up.
