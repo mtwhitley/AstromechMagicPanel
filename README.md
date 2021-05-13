@@ -116,6 +116,8 @@ Then connect the QT Py to the LED panels using the female jumper wires. If using
 
 <img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/IMG_5314.jpeg" width="500">
 
+Once assembled, AMP can be installed into the dome directly over the semi-transparent Magic Panel and connected to a 5v power supply.
+
 ## More Help
 For additional assistance please contact Michael Whitley (umlungu) on the Astromech.net forums.
 
