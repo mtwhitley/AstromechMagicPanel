@@ -3,7 +3,7 @@
 This project enables the building of LED Magic Panels for Astromech (R2-D2) droids. For more information on building your own droid, visit [Astromech.net](https://www.astromech.net)
 
 ## About
-This version cycles through 8 predefined color pallets at 30 second intervals. The brightness pulses. The colors, intervals, sequences, speed, and density are all configurable. 
+This version cycles through 8 predefined color pallets at 30 second intervals. The brightness pulses. The colors, intervals, sequences, speed, and density are all configurable. AMP requires 5v.
 
 The default color sequence is:
 
