@@ -106,7 +106,7 @@ Next, screw the LED panels into the bracket.
 
 <img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/IMG_5287.jpeg" width="500">
 
-Then connect the QT Py to the LED panels using the female jumper wires.
+Then connect the QT Py to the LED panels using the female jumper wires. If using the Sparkfun Lumini, connect CI to pin 0 and DI to pin 1. If using Adafruit Dotstar, connect CIN to pin 0 and DIN to pin 1. Don't forget to connect the 5V and GND pins as well. 
 
 **Assembled Sparkfun LuMini AMP**
 
