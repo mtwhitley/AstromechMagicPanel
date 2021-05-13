@@ -16,7 +16,7 @@ The default color sequence is:
  - Blue, *\<Off\>*
  - Rainbow, *\<Off\>*
 
-The build is pretty straightforward but if you are looking for a prebuilt, preprogrammed unit, DM me on [Instagram](https://www.instagram.com/mw.labs/) or send me a message in the [Astromech forums](https://astromech.net/forums/member.php?46338-umlungu).
+The build is pretty straightforward but if you are looking for a prebuilt, preprogrammed unit, send me a message in the [Astromech forums](https://astromech.net/forums/member.php?46338-umlungu). I can also be found on [Instagram](https://www.instagram.com/mw.labs/).
 
 ## Videos
 
@@ -108,7 +108,11 @@ Next, screw the LED panels into the bracket.
 
 Then connect the QT Py to the LED panels using the female jumper wires.
 
+**Assembled Sparkfun LuMini AMP**
+
 <img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/IMG_5309.jpeg" width="500">
+
+**Assembled Adafruit Dotstar AMP**
 
 <img src="https://raw.githubusercontent.com/mtwhitley/AstromechMagicPanel/main/photos/IMG_5314.jpeg" width="500">
 
