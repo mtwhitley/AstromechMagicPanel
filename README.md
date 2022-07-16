@@ -20,7 +20,7 @@ The build is pretty straightforward but if you are looking for a prebuilt, prepr
 
 ## Videos
 
-Click the image to view the video on Youtube.
+Click each of the images below to view a video on Youtube of the animation.
 
 Rainbow Animation
 
